@@ -16,7 +16,7 @@
     <div class="flex  h-screen items-center justify-center bg-pink-200 space-x-4">
         <div class="flex flex-col items-center space-y-4 bg-pink-500 px-6 shadow-lg">
             <h1 class="text-4xl font-bold text-gray-100">Marissa</h1>
-            <p class="text-lg text-gray-100">Istri jungkook (ngaku ngaku)</p>
+            <p class="text-lg text-gray-100"></p>
         </div>
         <div
             class="relative aspect-[9/10] w-44 flex-none overflow-hidden rounded-xl bg-zinc-100 sm:w-72 sm:rounded-2xl rotate-2">
